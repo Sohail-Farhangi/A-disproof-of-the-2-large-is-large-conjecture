@@ -1,1 +1,8 @@
 This repository contains fully AI-generated documents related to my recent preprint https://arxiv.org/abs/2610.16605 on the 2-large is large conjecture. I do not claim ownership over the mathematical contents of any of these documents, as I have not yet read any of them, and I do not yet understand any of them. These document are being made publically available to help further future research on this topic for those who are interested. It is possible that I will return to these document in the future and study them in more detail, but I would be equally happy if someone else read them, understood them, and incorporated their contents into one of their own papers, regardless of whether or not I am a co-author of that paper. The goal is to further the human understanding of mathematics, and not try to own every output produced by my AI prompts.
+
+1) The file Nil_Bohr_Recurrence_Positive_Density_2_Large.pdf proves that a set of nil-Bohr recurrence with positive upper density is 2-large.
+2) The file Partition_Regular_2_Large_Academic_Report.pdf contains the investigates of GPT-6 on Question 6.3 of our preprint. The question remains open.
+3) The file density-spectrum-report.pdf contains the investigations of GPT-6 on Conjecture 6.2 of our preprint. The conjecture remains open.
+4) The file dual_recurrence_counterexample.pdf contains a construction of a k-large set with an additional topological recurrence property that still fails to be (k+1)-large.
+5) The file hierarchy_localized_expanded.pdf contains a construction of a k-large set with some additional properties that is still not (k+1)-large.
+6) The file ExtractingkLargeButNotLargeSets.pdf contains over 10 hours of work of GPT-6 on Conjecture 6.1 of our preprint. The conjecture remains open.
